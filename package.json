@@ -2,10 +2,10 @@
   "name": "portfolio-react",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "routes/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cd frontend && npm run build && cd .. && nodemon"
+    "start": "cd views && npm run build && cd .. && nodemon"
   },
   "keywords": [],
   "author": "",

@@ -1,23 +1,23 @@
 
 # dependencies
 /node_modules
-/frontend/node_modules
-/frontend/.pnp
-/frontend/.pnp.js
+/views/node_modules
+/views/.pnp
+/views/.pnp.js
 
 # testing
-/frontend/coverage
+/views/coverage
 
 # production
-/frontend/build
+/views/build
 
 # misc
-/frontend/.DS_Store
-/frontend/.env.local
-/frontend/.env.development.local
-/frontend/.env.test.local
-/frontend/.env.production.local
+/views/.DS_Store
+/views/.env.local
+/views/.env.development.local
+/views/.env.test.local
+/views/.env.production.local
 
-/frontend/npm-debug.log*
-/frontend/yarn-debug.log*
-/frontend/yarn-error.log*
+/views/npm-debug.log*
+/views/yarn-debug.log*
+/views/yarn-error.log*
